@@ -14,7 +14,7 @@ To get started with this project, you will need to ensure you have Python instal
 
 To use the script, execute the following command:
 
-`python sorting_algorithm_benchmark.py`
+`python which_sort.py`
 
 This will generate a random dataset of integers and print the sorted data, the best sorting algorithm, and the number of data points. You can modify the dataset by changing the `data_count` and `data` variable in main().
 
